@@ -7,3 +7,5 @@ example/seeker/seeker
 # tests
 go-airplay.test
 
+.idea/
+
